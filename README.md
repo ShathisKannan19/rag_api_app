@@ -107,4 +107,7 @@ This project is licensed under the MIT License. See the [MIT-LICENSE.txt](MIT-LI
 
 - **ShathisKannan19** - [vshathiskannan@gmail.com](mailto:vshathiskannan@gmail.com)
 
-For more details, refer to the README.md file.
+> [!NOTE]  
+> Thank you for using our QA RAG Backend. We appreciate your support and contributions to this project. If you have any questions or need further assistance, please feel free to reach out.
+
+> Happy coding!
