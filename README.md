@@ -1,6 +1,6 @@
 # QA RAG API Backend
 
-This repository contains the backend for the QA RAG application. It is built using FastAPI and integrates with various libraries such as LangChain, SQLAlchemy, and more. The backend is containerized using Docker and managed with Docker Compose.
+This repository contains the backend for the QA RAG application. It is built using FastAPI and integrates with various libraries such as LangChain, Chroma VectorDB, SQLAlchemy, and more. The backend is containerized using Docker and managed with Docker Compose.
 
 ## Key Features
 
